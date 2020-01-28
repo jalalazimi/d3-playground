@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    overflow: hidden;
+    background: #1a232c;
+}
+
+svg {
+    background: #eee;
+}
+
+.land {
+    fill: #2c323a;
+}
+
+.container {
+    background: #1a232c;
+}
+
+.country {
+    fill: none;
+    stroke: #1a232c;
+    stroke-width: 1;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    vector-effect: non-scaling-stroke;
+}
+
+.country:hover{
+    fill: #3a434e !important;
+}
+
+.main-dot {
+    fill: #4ab4e8;
+}
+
+.dot {
+    fill: #4ab4e8;
+}

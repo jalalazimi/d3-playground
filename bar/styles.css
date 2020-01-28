@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    overflow: hidden;
+}
+
+rect {
+    fill: steelblue;
+}
+text {
+    font-size: 1.2em;
+}
